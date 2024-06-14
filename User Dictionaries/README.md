@@ -1,6 +1,6 @@
 # User Dictionary :
 You can use [User Dictionary Manager (UDM)](https://play.google.com/store/apps/details?id=com.usr.dict.mgr) to import the user dictionary.
- # Importing using (UDM).
+ # Importing using UDM.
  First give storage permission to UDM, then allow it in **Keyboard list and default** so that it can act as a keyboard to be allowed to access the user dictionary of your phone. No need to set it as your keyboard.
 <br>To import Amazigh (Tifinagh) dictionary.txt, follow these steps :
 <br>1. Open **UDM**.
