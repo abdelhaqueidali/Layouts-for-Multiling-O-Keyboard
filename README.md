@@ -1,6 +1,6 @@
 # Layouts-for-Multiling-O-Keyboard
 Here, you can find DIY+ layouts for some languages to use with Multiling O Keyboard (MOK).
-The main language I focused on is Amazigh, which is also known as Tamazight and Berber, which I found that has limited layouts for keyboards.
+The main language I focused on is Amazigh, also known as Tamazight and Berber, which I found that it has limited layouts in many keyboard apps.
 # Recommended Layouts :
 Amazigh : ⴰⵣⴻⵔⵜⵢ (Azerty-Full) and ⴷⵔⵎⵍ.
 Arabic : Arabic (Gboard)
