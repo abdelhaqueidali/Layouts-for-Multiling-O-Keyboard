@@ -9,7 +9,7 @@ You can use [User Dictionary Manager (UDM)](https://play.google.com/store/apps/d
 <br>4. Click **Browse** and navigate to where the **Amazigh (Tifinagh) dictionary.txt** is downloaded and choose it.
 <br>5. In **Input file format** option, use **UDM (pipe seperated)**.
 <br>6. In **Import into language** choose **Custom**.
-<br>7. Type **tf** in the text box under **Cusom**.
+<br>7. Type **tf** in the text box under **Custom**.
 <br>8. Click **NEXT**.
-<br>9. **Wait till the importing process is finished**. Do not close the app, because your phone **might stop** it in the background.
-<br>10. Word prediction should be enabled first in Multiling O keyboard to access word prediction from the user dictionary.
+<br>9. **Wait until the importing process is finished**. Do not quit the app because your phone **might stop** it in the background.
+<br>10. **Word prediction** should be **enabled** in Multiling O keyboard settings if it is not.
