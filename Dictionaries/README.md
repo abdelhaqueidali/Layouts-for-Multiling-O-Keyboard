@@ -4,7 +4,7 @@ You can use [User Dictionary Manager (UDM)](https://play.google.com/store/apps/d
  br>Open **UDM**.
 <br>Click **Import**.
 <br>Choose **external - TXT file (one word per line) from location**.
-<br>Click **Browse** and navigate to where the **Amazigh (Tifinagh) dictionary.txt** is downloaded.
+<br>Click **Browse** and navigate to where the **Amazigh (Tifinagh) dictionary.txt** is downloaded and choose it.
 <br>In **Input file format** option, use **UDM (pipe seperated)**.
 <br>In **Import into language** choose **Custom**.
 <br>Type **tf** in the text box under **Cusom**.
