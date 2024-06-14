@@ -1,0 +1,24 @@
+{
+  "title":"ⴰⵣⴻⵔⵜⵢ (Azerty-Split)",
+   "onScreen":{
+   "main":[
+      "ⴰⵣⴻⵔⵜ [4D:1[UNDO] [REDO] ][][4D:2 [PGUP] [PGDN]][][4D:3[SEARCH] [TAB] ][] ⵢⵓⵉⵄⵃ",
+      "ⵇⵙⴷⴼⴳ [4D:4[Home] [End] ][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del] [FDEL] ][] ⵀⵊⴽⵍⵎ",
+      "[Shift]ⵡⵅⵛ- [4D:7[CUT] [COPY]  ][][4D:8[COPY] [PASTE] ][][4D:9[WDEL] [TRANSLATE] ][] ⵖⴱⵏⵯ[Del]",
+      "[Tool][ALTGR:,][Space][][][][][4D:*    ][][4D:0 [ALL] [123]][][4D:#    ][][Space][][][][][SYM:.][Enter]"
+    ],
+    "shifted":[
+      "ⴰⵥⴻⵕⵟ [4D:1[UNDO] [REDO] ][][4D:2 [PGUP] [PGDN]][][4D:3[SEARCH] [TAB] ][] ⵢⵓⵉⵄⵃ",
+      "ⵈⵚⴹⵠⴳ [4D:4[Home] [End] ][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del] [FDEL] ][] ⵂⵊⴽⵍⵎ",
+      "[Shift]ⵯⵆⵞ- [4D:7[CUT] [COPY]  ][][4D:8[COPY] [PASTE] ][][4D:9[WDEL] [TRANSLATE] ][] ⵗⵒⵏⵯ[Del]",
+      "[Tool][ALTGR:,][Space][][][][][4D:*    ][][4D:0 [ALL] [123]][][4D:#    ][][Space][][][][][SYM:.][Enter]"
+    ],
+    "sym":[
+      "!@#$%  [4D:1[UNDO] [REDO] ][][4D:2 [PGUP] [PGDN]][][4D:3[SEARCH] [TAB] ][]  ^&*()",
+      "~`{}\\  [4D:4[Home] [End] ][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del] [FDEL] ][]  _-=|+",
+      "[Shift]…<>—  [4D:7[CUT] [COPY]  ][][4D:8[COPY] [PASTE] ][][4D:9[WDEL] [TRANSLATE] ][]  /\":;[Del]",
+      "[LOCK][ALTGR:,][Space][][][][][4D:*    ][][4D:0 [ALL] [123]][][4D:#    ][][Space][][][][][SYM:.][Enter]"
+    ]
+  }
+} 
+    
