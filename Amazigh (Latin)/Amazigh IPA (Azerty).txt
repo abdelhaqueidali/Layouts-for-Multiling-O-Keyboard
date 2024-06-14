@@ -1,0 +1,25 @@
+OK_Layout_Begin
+Name:Amazigh IPA (Azerty)
+1234567890
+[XK:æɑa]zə[XK:r[MC:rˁ]ɾ]tj[XK:ʊuo][XK:ɪi]ʕħ
+qsdfghʒklm
+[SHIFT][XK:w:[MC://]]xʃɣbnʷ[DEL]
+[]()/+-=%_#@
+ɑ[MC:zˁ]ə[MC:rˁ][MC:tˁ]joiɛħ
+q[MC:sˁ][MC:dˁ]v[MC:gʷ]hʒ[MC:kʷ]lm
+[SHIFT]:χʃʁpn°[DEL]
+1234567890
+ɑ[MC:zˁ]ə[MC:rˁ][MC:tˁ]joiɛħ
+q[MC:sˁ][MC:dˁ]v[MC:gʷ]hʒ[MC:kʷ]lm
+[SHIFT]:χʃʁpn°[DEL]
+1234567890
+abḇg[XK:ḡ[MC:g̱]][XK:ǧj][XK:ǧj]dḏḍ
+[XK:[MC:ḏ̣]ḓ]efkk[XK:ḵ[MC:ḵ]]hhhḥ
+[SHIFT]ɛ[XK:xẖ][XK:xẖ]qqijj[XK:jẓ]l[DEL]
+[]()\@-=%_#
+mn[MC:gn][MC:ng]purṛ[XK:ɣγġ]ɣ
+ɣsṣ[XK:cš]tṯčṭvw
+[SHIFT]yzzẓ[XK:eé]o[XK:ʷᵒ]-͜[DEL]
+OK_Layout_End
+
+
