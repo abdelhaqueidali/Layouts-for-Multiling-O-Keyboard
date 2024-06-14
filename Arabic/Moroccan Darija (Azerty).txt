@@ -1,0 +1,19 @@
+OK_Layout_Begin
+Name:Ddarija (Azerty)
+1234567890
+a[XK:zZ][XK:2e][XK:rR][XK:tT]yui[XK:3o][XK:7p]
+[XK:9q][XK:sS][XK:dD]fghjklm
+w[XK:5x][XK:xc][XK:4v]bn[XK:°ʷ]
+!@#$%^&*()
+aZeRTyuiop
+qSDfghjklm
+wxcvbnʷ
+1234567890
+aZeRTyuiop
+qSDfghjklm
+wxcvbnʷ
+£¥€$%^&*()№℥
+~`{}\_-=|+§∷†‡
+[]@#±/÷"«».'
+…<>!;:?‹›,
+OK_Layout_End
