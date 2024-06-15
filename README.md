@@ -3,8 +3,8 @@ DIY+ layouts for some languages to use with [Multiling O Keyboard (MOK)](https:/
 <br>The main language I focused on is [Amazigh](https://en.wikipedia.org/wiki/Berber_languages), also known as Tamazight and Berber, which I found that it has limited layouts in many keyboard apps for its script, [Tifinagh](https://en.wikipedia.org/wiki/Tifinagh).
 # Recommended Layouts :
 <br>**Amazigh** : ⴰⵣⴻⵔⵜⵢ (Azerty), ⴰⵣⴻⵔⵜⵢ (Azerty-Full), and ⴷⵔⵎⵍ.
-<br>**Arabic** : Arabic (Gboard)
-<br>**French** : Azerty (Gboard)
+<br>**Arabic** : Arabic 1
+<br>**French** : Azerty 1
 <br>...
 
 # Attention :
