@@ -1,5 +1,5 @@
 OK_Layout_Begin
-Name:Azerty (Gboard)
+Name:Azerty 1
 1234567890
 [XK:aáâà]z[XK:eéêè]rtyu[XK:iíîì][XK:oóôò]p
 qsdfghjklm
