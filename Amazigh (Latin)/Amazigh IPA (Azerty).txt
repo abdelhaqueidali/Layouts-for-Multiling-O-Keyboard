@@ -17,7 +17,7 @@ abḇg[XK:ḡ[MC:g̱]][XK:ǧj][XK:ǧj]dḏḍ
 [XK:[MC:ḏ̣]ḓ]efkk[XK:ḵ[MC:ḵ]]hhhḥ
 [SHIFT]ɛ[XK:xẖ][XK:xẖ]qqijj[XK:jẓ]l[DEL]
 []()\@-=%_#
-mn[MC:gn][MC:ng]purṛ[XK:ɣγġ]ɣ
-ɣsṣ[XK:cš]tṯčṭvw
+mn[MC:gn][MC:ng]purṛ[XK:ɣγġ][XK:ɣγġ]
+[XK:ɣγġ]sṣ[XK:cš]tṯčṭvw
 [SHIFT]yzzẓ[XK:eé]o[XK:ʷᵒ]-͜[DEL]
 OK_Layout_End
