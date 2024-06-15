@@ -1,19 +1,19 @@
 OK_Layout_Begin
 Name:Arabic (Latin)
-1234567890><
-ḍṣṯqfġʕhẖḥǧ
+1234567890<>
+ḍṣṯqfġʕhẖḥj
 šsyblatnmkṭ
 [SHIFT]ʔriẗuwzẓd[DEL]
-1234567890><
-ḍṣṯqvġɛhẖħj
-šsyplāẗnmgẓ
-[SHIFT]ʔṛītūwẓṭḏ[DEL]
-١٢٣٤٥٦٧٨٩٠»«
-ḍṣṯqvġɛhẖħj
+1234567890<>
+ḍṣṯqvġʕhẖḥǧ
 šsyplāẗnmgẓ
 [SHIFT]ʔṛītūwẓṭḏ[DEL]
 £¥€$₹^&*()№√÷
 ~`{}%_-=|+§∷‡
 @[]#/\'"«»—‐–
 …<>!;:?‹›±.,[DEL]
+ˉˋˇ´¨˙˚¸﹐˛˘˜ˆ
+―∑éə®†Ωœøπ•·¡
+æß∂ðƒ©ªº∆≠℥∞¿
+ʒΩ≈çþ∫ŋµ≤≥°[DEL]
 OK_Layout_End
