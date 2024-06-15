@@ -1,5 +1,5 @@
 OK_Layout_Begin
-Name:Tamaziɣt (Azerty)
+Name:Azerty (Tamaziɣt)
 1234567890
 azertyuiɛḥ
 qsdfghjklm
