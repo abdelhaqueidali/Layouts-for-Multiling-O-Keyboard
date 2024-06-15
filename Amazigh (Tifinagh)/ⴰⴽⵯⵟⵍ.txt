@@ -1,5 +1,5 @@
 OK_Layout_Begin
-Name:ⴰⴽⵯⵟⵍ (Gboard)
+Name:ⴰⴽⵯⵟⵍ
 1234567890
 [XK:ⴰⵄ][XK:[MC:ⴽⵯ]][XK:ⵟ][XK:ⵍ][XK:ⵓ][XK:ⵀ][XK:ⴹⴺ][XK:ⵎ][XK:ⵕ][XK:ⵃ]
 [XK:ⵇ][XK:ⵙⵚ][XK:ⵜⵝⵟ][XK:ⵅ][XK:ⴳ[MC:ⴳⵯ]ⴴ][XK:ⵥ][XK:ⵢ][XK:ⴱⴲⵒⵠ][XK:ⴼ][XK:ⵖ]
