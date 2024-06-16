@@ -4,7 +4,6 @@ DIY+ layouts for some languages to use with [Multiling O Keyboard (MOK)](https:/
 # Recommended Layouts :
 <br>**Amazigh** : ⴰⵣⴻⵔⵜⵢ (Azerty), ⴰⵣⴻⵔⵜⵢ (Azerty-Full), and ⴷⵔⵎⵍ.
 <br>**Arabic** : Arabic 1
-<br>**French** : Azerty 1
 <br>...
 
 # Importing Layouts
