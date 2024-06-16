@@ -12,7 +12,7 @@ After seting up Multiling O Keyboard as your keyboard, you should add the langua
 <br> Before following these steps, copy a layout code that you want from the repository. then:
 <br>1. Open the keyboard, long press on space bar and drag it to layouts.
 <br>2. Click on DIY+
-<br>3. Click Paste to paste the copied layout code.
+<br>3. Click Paste to paste the copied layout code, then Ok.
 <br>4. Enjoy it.
 # Importing Settings (Importing All the layouts at Once)
 If you want to Import all the layouts at once, go to settings folder in this repository and copy the settings code.
