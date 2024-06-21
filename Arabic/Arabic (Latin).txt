@@ -1,13 +1,13 @@
 OK_Layout_Begin
 Name:Arabic (Latin)
-1234567890<>
+1234567890
 ḍṣṯqfġʕhẖḥj
 šsyblatnmkṭ
 [SHIFT]ʔriẗuwzẓd[DEL]
-1234567890<>
-ḌṢṮQVĠʕHẖḤǦ
-ŠSYPLĀẗNMGẒ
-[SHIFT]ʔṚĪTŪWẒṬḎ[DEL]
+1234567890
+ḍṣṯqvġʕhẖḥǧ
+šsyplāẗnmgẓ
+[SHIFT]ʔṛītūwẓṭḏ[DEL] 
 £¥€$₹^&*()№√÷
 ḍṣṯqvɣɛhxḥǧ
 šsyplāẗnmgẓ
