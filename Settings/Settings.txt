@@ -9,6 +9,7 @@ __Zh.sy::true::B
 __S.dm::com%0Aorg%0Anet%0Ainfo%0Aedu%0Ama::S
 __E.ine1::true::B
 __DIYs.ip::::S
+__Arabic (Latin)en::1234567890<>%0Aḍṣṯqfġʕhẖḥj%0Ašsyblatnmkṭ%0A[SHIFT]ʔriẗuwzẓd[DEL]%0A1234567890<>%0AḌṢṮQVĠʕHẖḤǦ%0AŠSYPLĀẗNMGẒ%0A[SHIFT]ʔṚĪTŪWẒṬḎ[DEL]%0A£¥€$₹^&*()№√÷%0Aḍṣṯqvɣɛhxḥǧ%0Ašsyplāẗnmgẓ%0A[SHIFT]ʔṛītūwẓṭḏ[DEL]%0Aˉˋˇ´¨˙˚¸﹐˛˘˜ˆ%0A~`{}%_-=|+§∷‡%0A@[]#/\'"«»—‐–%0A…<>!;:?‹›±.,[DEL]%0A―∑éə®†Ωœøπ•·¡%0Aæß∂ðƒ©ªº∆≠℥∞¿%0AʒΩ≈çþ∫ŋµ≤≥°[DEL]::S
 __Zh.cj::0::I
 __E.ine2::true::B
 __K.lp::true::B
@@ -24,7 +25,7 @@ __I.P.ar::true::B
 __I.bk::::S
 __S.emj1::★%0A☆%0A✦%0A✧%0A✩%0A✪%0A✫%0A✬%0A✭%0A✮%0A✯%0A✰%0A✱%0A✲%0A✳%0A※%0A✴%0A✵%0A✶%0A✷%0A✸%0A✹%0A✺%0A✻%0A✼%0A✽%0A✾%0A✿%0A❀%0A❁%0A❂%0A❃%0A❄%0A❅%0A❆%0A❇%0A❈%0A❉%0A❊%0A❋%0A☠%0A☡%0A☢%0A☣%0A☤%0A☥%0A☦%0A☧%0A☨%0A☩%0A☪%0A☫%0A☬%0A☭%0A☮%0A☯::S
 __S.emj2::←%0A↚%0A→%0A↛%0A↑%0A↓%0A↔%0A↮%0A↕%0A↖%0A↗%0A↘%0A↙%0A↜%0A↝%0A↞%0A↟%0A↠%0A↡%0A↢%0A↣%0A↤%0A↥%0A↦%0A↧%0A↨%0A↩%0A↪%0A↫%0A↬%0A↭%0A↯%0A↰%0A↱%0A↲%0A↳%0A↴%0A↵%0A↶%0A↷%0A↸%0A↹%0A↺%0A↻%0A↼%0A↽%0A↾%0A↿%0A⇀%0A⇁%0A⇂%0A⇃%0A⇄%0A⇅%0A⇆%0A⇇%0A⇈%0A⇉%0A⇊%0A⇋%0A⇌%0A⇐%0A⇍%0A⇑%0A⇒%0A⇏%0A⇓%0A⇔%0A⇎%0A⇕::S
-__S.emj0::😂%0A😅%0A😁%0A❤%0Aㄟ(ツ)ㄏ%0A╭(╯^╰)╮%0Aθ＼(；￢_￢)%20%0As(・｀ヘ´・;)ゞ%20%0A（⌒▽⌒）%0Aヘ(￣ω￣ヘ)%0A凸(⊙▂⊙✖%20)%0A＼(`O´θ／%20%0A＼(｀0´)／%20%0A😢%0A😓%0A🇲🇦%0A🇵🇸%0A🇸🇦%0A♓%0A↶%0A↷%0A→%0A↝%0A↴%0A↧%0A⇃%0A⇂%0A⇁%0A⇀%0A↽%0A↼%0A⇓%0A↯%0A↫%0A↳%0A↲%0A↟%0A😏%0A☕%0A🎁%0A😕%0A👇%0A👎%0A👊%0A👋%0A👉%0A✋%0A👍%0A🇬🇧%0A♎%0A🤥%0A🤡%0A🤠::S
+__S.emj0::😅%0A😂%0A🤢%0A💀%0A🇲🇦%0A🇵🇸%0A😁%0A❤%0Aㄟ(ツ)ㄏ%0A╭(╯^╰)╮%0Aθ＼(；￢_￢)%20%0As(・｀ヘ´・;)ゞ%20%0A（⌒▽⌒）%0Aヘ(￣ω￣ヘ)%0A凸(⊙▂⊙✖%20)%0A＼(`O´θ／%20%0A＼(｀0´)／%20%0A😢%0A😓%0A🇸🇦%0A♓%0A↶%0A↷%0A→%0A↝%0A↴%0A↧%0A⇃%0A⇂%0A⇁%0A⇀%0A↽%0A↼%0A⇓%0A↯%0A↫%0A↳%0A↲%0A↟%0A😏%0A☕%0A🎁%0A😕%0A👇%0A👎%0A👊%0A👋%0A👉%0A✋%0A👍%0A🇬🇧%0A♎%0A🤥::S
 __S.emj5::¼%0A½%0A¾%0A⅓%0A¼%0A⅛%0A√%0A℃%0A℉%0A∴%0A∵%0A∶%0A∷%0A⋮%0A∞%0A∝%0A∃%0A∟%0A∠%0A∧%0A∨%0A∀%0A∩%0A∪%0A凵%0A⊿%0A∂%0A∫%0A∬%0A∮%0A∏%0A∼%0A∽%0A≅%0A≒%0A≠%0A≡%0A≤%0A≥%0A≦%0A≧%0A≪%0A≫%0A⊕%0A⊗%0A⊙%0A⋅%0A×%0A╭%0A∑%0A∗%0A∙%0A∣%0A∥%0A≈%0A≌%0A≢%0A≣%0A⊥%0A∉%0A∋%0A∌%0A⊂%0A⊃%0A⊄%0A⊅%0A⊆%0A⊇%0A⅕%0A⅙::S
 __S.emj6::$%0A¢%0A£%0A¤%0A¥%0A₽%0A֏%0A؋%0A৲%0A৳%0A৻%0A૱%0A௹%0A฿%0A៛%0A₠%0A₡%0A₢%0A₣%0A₤%0A₥%0A₦%0A₧%0A₨%0A₩%0A₪%0A₫%0A€%0A₭%0A₮%0A₯%0A₰%0A₱%0A₲%0A₳%0A₴%0A₵%0A₶%0A₷%0A₸%0A₹%0A꠸%0A﷼%0A﹩%0A＄%0A￠%0A￡%0A￥%0A￦%0A✘%0A✔%0A✓%0A√%0A♩%0A♪%0A♭%0A♯%0A♬%0Aℒ%0Aℳ%0A◀%0A▶%0A▼%0A▲%0A◣%0A◥%0A◢%0A◤%0A◆%0A∆%0A∇%0A☜%0A☞%0A☏%0A✆::S
 __S.emj3::⇖%0A⇗%0A⇘%0A⇙%0A⇚%0A⇛%0A⇜%0A⇝%0A⇞%0A⇟%0A⇠%0A⇡%0A⇢%0A⇣%0A⇤%0A⇥%0A⇦%0A⇧%0A⇨%0A⇩%0A⇪%0A⇫%0A⇬%0A⇭%0A⇮%0A⇯%0A⇰%0A⇱%0A⇲%0A⇳%0A⇴%0A⇵%0A⇶%0A⇷%0A⇸%0A⇹%0A⇺%0A⇻%0A⇼%0A⇽%0A⇾%0A⇿%0A➘%0A➙%0A➚%0A➛%0A➜%0A➝%0A➞%0A➟%0A➠%0A➡%0A➢%0A➣%0A➤%0A➥%0A➦%0A➧%0A➨%0A➩%0A➪%0A➫%0A➬%0A➭%0A➮%0A➯%0A➰%0A➱%0A➲%0A➳%0A➴%0A➵%0A➶%0A➷%0A➸%0A➹%0A➺%0A➻%0A➼%0A➽%0A➾%0A➿%0A%20%20%20%20::S
@@ -35,9 +36,9 @@ __ⴰⵣⴻⵔⵜⵢ (Azerty-Split)tf::{%0A%20%20"title":"ⴰⵣⴻⵔⵜⵢ%20(
 __PK.pk::true::B
 __ⵇⵡⴻⵔⵜⵢ (Qwerty)tf::1234567890%0Aⵇⵡⴻⵔⵜⵢⵓⵉⵄⵃ%0Aⴰⵙⴷⴼⴳⵀⵊⴽⵍ%0A[SHIFT]ⵣⵅⵛⵖⴱⵏⵎ[DEL]%0A[]()\+-=%_#@%0Aⵇⵯⴻⵕⵟⵢⵓⵉⵄⵃ%0Aⴰⵚⴹⵠ[MC:ⴳⵯ]ⵀⵊ[MC:ⴽⵯ]ⵍ%0A[SHIFT]ⵥⵅⵛⵖⵒⵏⵎ[DEL]%0A£¥€$%^&*()№%0A~ˋ{}\_-=|+«»%0A[]@#±/÷'"‹›.%0A…<>!;:?,।§[DEL]%0A1234567890%0Aⴰⴱⴲⴳⴴⴵⴶⴷⴸⴹ%0Aⴺⴻⴼⴽⴾⴿⵀⵁⵂⵃ%0A[SHIFT]ⵄⵅⵆⵇⵈⵉⵊⵋⵌⵍ[DEL]%0A[]()\@-=%_#%0Aⵎⵏⵐⵑⵒⵓⵔⵕⵖⵗ%0Aⵘⵙⵚⵛⵜⵝⵞⵟⵠⵡ%0A[SHIFT]ⵢⵣⵤⵥⵦⵧⵯ⵰⵿[DEL]::S
 __Zh.fws::false::B
-__I.sp2::.,?!-::S
+__I.sp2::::S
 __DIYs.fr::::S
-__Arabic (Tashkil)ar::ـًٌٍَُِّْ%0Aضصثقفغعهخحج%0Aشسيبلاتنمكط%0A[SHIFT]ءرىةوزظد[DEL]%0A١٢٣٤٥٦٧٨٩٠»«%0Aًٍَِڤٌُّْهچء%0A÷ےئپإأٮںکݣگ%0A[SHIFT]ءڑآتؤژطذ[DEL]%0A!@#$ﷻ٪&*)(۝%0A][}{\/_-=|+۩%0A~؎﷽£¥€:؛'"٭%0Aﷲ…ﷺ؞»«ـ.؟[DEL]%0A1234567890><%0A‎‏‭‮‬‪‫ %0A°•ىـ−ٱۤ،﴾﴿;%0Aٰٖٕؐ,'?‐۔[DEL]::S
+__Arabic (Tashkil)ar::ـًٌٍَُِّْے%0Aضصثقفغعهخحج%0Aشسيبلاتنمكط%0A[SHIFT]ءرىةوزظد[DEL]%0A١٢٣٤٥٦٧٨٩٠%0Aًٍَِڤٌُّْهچء%0A÷ےئپإأٮںکݣگ%0A[SHIFT]ءڑآتؤژطذ[DEL]%0A!@#$ﷻ٪&*)(۝%0A][}{\/_-=|+۩%0A~؎﷽£¥€:؛'"٭%0Aﷲ…ﷺ؞»«ـ.؟[DEL]%0A1234567890%0A‎‏‭‮‬‪‫ %0A°•ىـ−ٱۤ،﴾﴿;%0Aٰٖٕؐ,'?‐۔[DEL]::S
 __I.es::false::B
 __V.brh::26::I
 __K.asw::false::B
@@ -58,7 +59,7 @@ __DIYs.de::::S
 __MDFR::v+´=ǘ%0Ae+˜=ẽ%0Ay+˜=ỹ::S
 __Zh.hw::true::B
 __loryu::17197172227::L
-__Arabic 1ar::1234567890><%0Aضصثقفغعهخحج%0Aشسيبلاتنمكط%0A[SHIFT]ءرىةوزظد[DEL]%0A١٢٣٤٥٦٧٨٩٠»«%0Aًٍَِڤٌُّْهچء%0A÷ےئپإأٮںکݣگ%0A[SHIFT]ءڑآتؤژطذ[DEL]%0A!@#$ﷻ٪&*)(۝%0A][}{\/_-=|+۩%0A~؎﷽£¥€:؛'"٭%0Aﷲ…ﷺ؞»«ـ.؟[DEL]%0A1234567890><%0A‎‏‭‮‬‪‫ %0A°•ىـ−ٱۤ،﴾﴿;%0Aٰٖٕؐ,'?‐۔[DEL]::S
+__Arabic 1ar::1234567890%0Aضصثقفغعهخحج%0Aشسيبلاتنمكط%0A[SHIFT]ءرىةوزظد[DEL]%0A١٢٣٤٥٦٧٨٩٠%0Aًٍَِڤٌُّْهچء%0A÷ےئپإأٮںکݣگ%0A[SHIFT]ءڑآتؤژطذ[DEL]%0A!@#$ﷻ٪&*)(۝%0A][}{\/_-=|+۩%0A~؎﷽£¥€:؛'"٭%0Aﷲ…ﷺ؞»«ـ.؟[DEL]%0A1234567890%0A‎‏‭‮‬‪‫ %0A°•ىـ−ٱۤ،﴾﴿;%0Aٰٖٕؐ,'?‐۔[DEL]::S
 __ⴰⴽⵟⵍtf::1234567890%0Aⴰⴽⵟⵍⵓⵀⴹⵎⵕⵄⵃ%0Aⵇⵙⵜⵅⴳⵥⵢⴱⵚⴼⵖ%0A[SHIFT]ⵣⴷⵔⵉⵛⵏⵯⵡⵊ[DEL]%0A[]()\+-=%_#%0Aⵄ[MC:ⴽⵯ]ⵜⵍⴻⵂⴺⵎⵔⵄⵃ%0Aⵈⵚⵝⵆⴴⵣⵒⴲⵙⵊⵗ%0A[SHIFT]ⵤⴸⵕⵢⵞⵑⴳⵯⴶ[DEL]%0A£¥€$%^&*()№%0A~ˋ{}\_-=|+«»%0A[]@#±/÷'"‹›.%0A…<>!;:?,।§[DEL]%0A1234567890%0Aⴰⴱⴲⴳⴴⴵⴶⴷⴸⴹ%0Aⴺⴻⴼⴽⴾⴿⵀⵁⵂⵃ%0A[SHIFT]ⵄⵅⵆⵇⵈⵉⵊⵋⵌⵍ[DEL]%0A[]()\@-=%_#%0Aⵎⵏⵐⵑⵒⵓⵔⵕⵖⵗ%0Aⵘⵙⵚⵛⵜⵝⵞⵟⵠⵡ%0A[SHIFT]ⵢⵣⵤⵥⵦⵧⵯ⵰⵿[DEL]::S
 __I.gs::false::B
 __I.P.fr::false::B
@@ -78,7 +79,7 @@ __K.pp::true::B
 __I.P.x3::true::B
 __I.P.x1::true::B
 __I.ttc::false::B
-__DIYs.en::HoneyKey%20Latin%20(EN)%0AMulti-tap%0AMorse%20Code%0A123+qwerty%0ASplit+1%0A2abc+T9::S
+__DIYs.en::HoneyKey%20Latin%20(EN)%0AMulti-tap%0AMorse%20Code%0A123+qwerty%0ASplit+1%0A2abc+T9%0APsychoBoard%0AArabic%20(Latin)::S
 __I.P.lin::true::B
 __lo.Ltf::439787716877::L
 __I.P.es::true::B
@@ -93,13 +94,13 @@ __V.Y::871::I
 __V.X::0::I
 __V.bm::39::I
 __Zh.jl::true::B
-__loar::435543303786::L
+__loar::448444917605::L
 __loain::17197172227::L
 __I.isbs::false::B
 __2abc+T9en::{%0A"title":"2abc+T9",%0A"onScreen":{%0A"main":[%0A"[4D:+[HOME][PGUP][END][PGDN]][1+4:1'*\"@][1+4:2abc:][1+4:3def#][4D:+[DEL][CUT][FDEL][WDEL]][DEL]",%0A"[FN:!][1+4:4ghi][1+4:5jkl][1+4:6mno][4D:+[LEFT][UP][RIGHT][DOWN]][EDIT:?]",%0A"[SHIFT][1+4:7pqrs][1+4:8tuv~][1+4:9wxyz][4D:+[W.LEFT][COPY][W.RIGHT][PASTE]][123:-]",%0A"[TOOL][ALTGR:,][4D:0][SPACE][][SYM:.][ENTER]"%0A]%0A}%0A}%0A%20%20%20%20::S
 __K.skb::false::B
 __Multi-tapen::{%0A"title":"Multi-tap",%0A"onScreen":{%0A"main":[%0A"[4D:~[HOME][PGUP][END][PGDN]][MT:'@01][MT:abc2][MT:def3][4D:=[DEL][CUT][WDel][FDel]][DEL]",%0A"[FN:!][MT:ghi4][MT:jkl5][MT:mno6][4D:+[LEFT][UP][RIGHT][DOWN]][EDIT:?]",%0A"[SHIFT][MT:pqrs7][MT:tuv8][MT:wxyz9][4D:-[W.LEFT][COPY][W.RIGHT][PASTE]][123:[MT]]",%0A"[TOOL][ALTGR:,][SPACE][][SYM:.][ENTER]"%0A],%0A%0A"prediction":{%0A"MT":true%0A}%0A%0A}%0A}::S
-__DIYs.ar::Dotless%20Arabic%0AArabic%201%0AMorccan%20Darija%20(Azerty)%0AArabic%20(Tashkil)%0AArabic%20(Latin)::S
+__DIYs.ar::Dotless%20Arabic%0AMorccan%20Darija%20(Azerty)%0AArabic%20(Gboard)%0AArabic%20(Latin)%0AArabic%201%0AArabic%20(Tashkil)::S
 __V.sm::false::B
 __K.th::33::I
 __K.fs2::86::I
@@ -120,6 +121,7 @@ __K.gh.L::20::I
 __123+qwertyen::{%0A"title":"123+qwerty",%0A"onScreen":{%0A"main":[%0A"[CO:1]123[CO:0][4D:+[HOME][COPY][END][PASTE]]qwertyuiop",%0A"[CO:1]456[CO:0]+[4D:+[LEFT][UP][RIGHT][DOWN]]asdfghjkl",%0A"[CO:1]789[CO:0][SHIFT][][4D:+[DEL][CUT][FDEL][WDEL]]zxcvbnm+",%0A"[TOOL][CO:1]0[CO:0][FN:-][EDIT:[VOICE]][DEL][]+[ALTGR:,][SPACE][][][SYM:.][ENTER][]"%0A],%0A%0A"sym":[%0A"«…»№£¥€$%^&*()",%0A"<+>~+`{}+\\_-=|?",%0A"‹!›+[SHIFT]+@#±/÷'\".",%0A"[TOOL]=[FN:-]+[DEL][]+[ALTGR:,][SPACE][][][SYM:.][ENTER][]"%0A]%0A}%0A}%0A%20%20%20%20::S
 __I.APFR::false::B
 __V.bh::42::I
+__Arabic (Gboard)ar::1234567890%0Aضصثق[XK:فڥڤڢ]غعهخحج%0Aشسيب[XK:ل[MC:لا][MC:لأ][MC:لإ[MC:لآ]][XK:اأإء]تنم[XK:كگکݣ]ط%0Aذءؤرىةوزظد[DEL]%0A١٢٣٤٥٦٧٨٩٠%0Aضصثڥفغعهخحچ%0Aڜسئپ[MC:لا]أتنمݣط%0Aذءؤرئةؤژظد[DEL]%0A!@#$ﷻ٪&*)(۝%0A][}{\/_-=|+۩%0A~؎﷽£¥€:؛'"٭%0Aﷲ…ﷺ؞»«ـ.؟[DEL]%0A1234567890%0A‎‏‭‮‬‪‫ %0A°•ىـ−ٱۤ،﴾﴿;%0Aٰٖٕؐ,'?‐۔[DEL]::S
 __I.P.zgh::true::B
 __V.ds::false::B
 __HoneyKey Latin (EN)en::{%0A"title":"HoneyKey%20Latin%20(EN)",%0A"onScreen":{%0A"main":[%0A"[4D:[123][MC:[LANG:01]:‌🇺🇸][EMOJI]%20[EDIT]][4D:[SYM][ALTGR][LAYOUT:01]*_][4D:eoxiy][4D:rfzdk][4D:.:?-’][DEL]",%0A"[LEFT][][][4D:a/mju][][SPACE][][4D:spc—l][][RIGHT][][]",%0A"[TOOL][SHIFT][4D:nqvg][4D:thwb][4D:,“!”;][ENTER]"%0A],%0A"sym":[%0A"[4D:[123]%20[EMOJI]%20[EDIT]][LOCK][4D:@{[U+20AC]}[U+00A5]][4D:#[U+00AB][U+2039][U+00BB][U+203A]][4D:[U+2013][U+002F][U+007C]\\_][DEL]",%0A"[LEFT][][][4D:[U+2022]([U+00B7])[U+30FB]][][SPACE][][4D:$[LB][U+266F][RB][U+266D]][][RIGHT][][]",%0A"[SHIFT][4D:[U+007E][U+2018][U+FF5E][U+2019][U+2020]][4D:&[U+201C][U+2661][U+201D][U+00B6]][4D:*<^>[U+2122]][4D:[U+00BF][U+0060][U+00A1][U+00B4][U+141C]][ENTER]"%0A],%0A"altGr":[%0A"[4D:[123]%20[EMOJI]%20[EDIT]][LOCK][4D:ˊ˝æœå][4D:ˋøłþð][4D:¨ßſʒ…][DEL]",%0A"[LEFT][][][4D:ˆ←↑→↓][][SPACE][][4D:ˇ˘ʔ[MC:[U+3000]:FWSP][MC:[U+200B]:ZWSP]][][RIGHT][][]",%0A"[SHIFT][4D:ˉ′ŋ″][4D:¸˛‚ᗜ][4D:˜ơưə[MC:[U+202F]:NNBS]][4D:˙ŀ[MC:[U+00A0]:NBSP]İ][ENTER]"%0A],%0A"num":[%0A"[LOCK][4D:[SYM][ALTGR][LANG:03][LANG:02][LANG:01]][4D:7^+±c][4D:8−-_b][4D:9∞%‰a][DEL]",%0A"[SHIFT][LEFT][][4D:4#*×f][][4D:5√/÷e][][4D:6≈=≠d][][RIGHT][][TAB]",%0A"[SPACE][4D:1(,)¥][4D:2<.>$][4D:3≤:≥°][4D:0[MC:00]′″‴][ENTER]"%0A],%0A"edit":[%0A"[LOCK][ALL][CO:1][HOME][UP][CO:2][DEL][FDEL]",%0A"[LEFT][][][CO:1][CUT][][COPY][][PASTE][][CO:2][RIGHT][][]",%0A"[SHIFT][CO:1][UNDO][DOWN][END][REDO][CO:2][ENTER]"%0A],%0A"shifted":[%0A"[4D:[123]%20[EMOJI]%20[EDIT]][4D:[SYM][ALTGR][LANG:01]'\"][4D:EOXIY][4D:RFZDK][4D:.:?-’][DEL]",%0A"[LEFT][][][4D:A/MJU][][SPACE][][4D:SPC—L][][RIGHT][][]",%0A"[4D:@%20#[MC:thefizzynator@gmail.com:📧]][LOCK][4D:NQVG][4D:THWB][4D:,“!”;][ENTER]"%0A],%0A"symShifted":[%0A"[4D:[123]%20[EMOJI]%20[EDIT]][LOCK][4D:[U+266A][U+266B][U+266C][U+2669][U+1F3B5]][4D:[U+00BD][U+00BC][U+00B2][U+00BE][U+00B3]][4D:[U+00A7][U+300C][U+300E][U+300D][U+300F]][DEL]",%0A"[LEFT][][][4D:[U+23F9][U+2B05][U+2B06][U+27A1][U+2B07][U+2196][U+2197][U+2198][U+2199]][][SPACE][][4D:[U+2764][U+1F49B][U+1F49A][U+1F499][U+1F49C][U+1F9E1][U+1F5A4][U+1F90D][U+1F90E]][][RIGHT][][]",%0A"[SHIFT][4D:[U+201A][MC:[U+00AF]\\\_([U+30C4])\_/[U+00AF]][U+2E18][MC:[U+00AF]\\\\\\\_([U+30C4])\\\_/[U+00AF]][U+203D]][4D:[U+201E][U+1F380][MC:⚠️][U+1F497][MC:[U+FE0F]:ESel]][4D:[U+2699][MC:[U+25C9][U+203F][U+25C9]][U+1F496][U+2728][MC:🛑]][4D:[U+274C][U+0283][U+2705][U+00AC][U+1F48B]][ENTER]"%0A],%0A"prediction":%0A{"T9":false}%0A}%0A}::S
@@ -130,7 +132,7 @@ __K.gs01::[SHIFT-X]::S
 __K.gs02::[RIGHT]::S
 __I.P.kb::true::B
 __K.gs03::[SYM-X]::S
-__lotf::487385952104::L
+__lotf::487352200818::L
 __K.el::true::B
 __PK.stk::false::B
 __I.P.bbr::true::B
@@ -153,7 +155,7 @@ __I.P.ar1::true::B
 __I.asp::[LANG:01]::S
 __V.fs::false::B
 __K.gs23::[DOWN]::S
-__K.gh::9::I
+__K.gh::14::I
 __K.gi::0::S
 __AP.seq::a%20+%20`%20⇒%20à::S
 __V.co14::fffff7ff::X
@@ -174,7 +176,7 @@ __EMJ.ios::false::B
 __HW.pt::300::S
 __V.co17::0::X
 __V.co16::0::X
-__loen::6029601286::L
+__loen::6097102692::L
 __V.co15::ffffffff::X
 __DIYs..Len::HoneyKey%20Latin%20(EN)::S
 __S.emj54::-::S
@@ -206,12 +208,12 @@ __K.fs::94::I
 __V.FB::false::B
 __I.VNI::true::B
 __lode::12902531589::L
-__lc::tf,ar,en,bbr,de,fr,it,es,kb,sa1,bb,ryu,ain,ko,zh1,ar1,ip,x3,x1,kbp,lx,zgh,::S
+__lc::fr,ar,bbr,tf,en,it,es,de,kb,sa1,bb,ryu,ain,ko,zh1,ar1,ip,x3,x1,kbp,lx,zgh,::S
 __lo.Len::61807331845::L
 __I.P.ko::true::B
 __K.gs10::[HOME]::S
 __V.fs.L::true::B
-__I.asw::true::B
+__I.asw::false::B
 __K.gs11::[COPY]::S
 __V.co2::ffffffff::X
 __V.co3::ff3f3f47::X
@@ -261,9 +263,9 @@ __S.emj30::🔝%0A🔚%0A🔙%0A🔛%0A🔜%0A🆗%0A💯%0A🆕%0A🆙%0A🆒%0
 __ver::222::I
 __S.emj31::🔄%0A◀%0A▶%0A🔼%0A🔽%0A⏪%0A⏩%0A⤵%0A⤴%0A⬆%0A⬇%0A⬅%0A➡%0A▼%0A▲%0A◣%0A◥%0A◢%0A◤%0A◆%0A∆%0A∇%0A↗%0A↖%0A↘%0A↙%0A%20%20%20%20::S
 __I.acx2::true::B
-__TE.to::150::S
+__TE.to::157::S
 __S.emj38::🤗%0A🤔%0A🙄%0A🤐%0A🤓%0A🙃%0A🤒%0A🤕%0A🤑%0A🤖%0A🏻%0A🏼%0A🏽%0A🏾%0A🏿%0A🤘%0A📿%0A🦁%0A🦄%0A🦃%0A🦀%0A🦂%0A🧀%0A🌭%0A🌮%0A🌯%0A🍿%0A🍾%0A🏺%0A🕋%0A🕌%0A🕍%0A🏏%0A🏐%0A🏑%0A🏒%0A🏓%0A🏸%0A🏹%0A🛐%0A🕎%0A🙂%0A🙁%0A🖕%0A🖖%0A🛫%0A??%0A🛌%0A🏅%0A📸%0A🏴%0A🕵%0A🗣%0A🕴%0A🖐%0A👁%0A🗨%0A🗯%0A🕳%0A🕶%0A🛍%0A🐿%0A🕊%0A🕷%0A🕸%0A🏵%0A🌶%0A🍽%0A🗺%0A🏔%0A🏕%0A🏖%0A🏜%0A🏝%0A🏞%0A🏟%0A🏛%0A🏗%0A🏘%0A🏙%0A🏚%0A🖼%0A🛣%0A🛤%0A🛳%0A🛥%0A🛩%0A🛰%0A🛎%0A🛏%0A🛋%0A🕰%0A🌡%0A🌤%0A🌥%0A🌦%0A🌧%0A🌨%0A🌩%0A🌪%0A🌫%0A🌬%0A🎖%0A🎗%0A🎞%0A🎟%0A🏷%0A🏌%0A🏋%0A🏎%0A🏍%0A🕹%0A🎙%0A🎚%0A🎛%0A🖥%0A🖨%0A🖱%0A🖲%0A📽%0A🕯%0A🗞%0A🗳%0A🖋%0A🖊%0A🖌%0A🖍%0A🗂%0A🗒%0A🗓%0A🖇%0A🗃%0A🗄%0A🗑%0A🗝%0A🛠%0A🗜%0A🗡%0A🛡%0A🏳%0A🛢%0A🕉%0A⏸%0A⏹%0A⏺::S
-__Arabic (Latin)ar::1234567890<>%0Aḍṣṯqfġʕhẖḥj%0Ašsyblatnmkṭ%0A[SHIFT]ʔriẗuwzẓd[DEL]%0A1234567890<>%0AḌṢṮQVĠʕHẖḤǦ%0AŠSYPLĀẗNMGẒ%0A[SHIFT]ʔṚĪTŪWẒṬḎ[DEL]%0A£¥€$₹^&*()№√÷%0Aḍṣṯqvɣɛhxḥǧ%0Ašsyplāẗnmgẓ%0A[SHIFT]ʔṛītūwẓṭḏ[DEL]%0Aˉˋˇ´¨˙˚¸﹐˛˘˜ˆ%0A~`{}%_-=|+§∷‡%0A@[]#/\'"«»—‐–%0A…<>!;:?‹›±.,[DEL]%0A―∑éə®†Ωœøπ•·¡%0Aæß∂ðƒ©ªº∆≠℥∞¿%0AʒΩ≈çþ∫ŋµ≤≥°[DEL]::S
+__Arabic (Latin)ar::1234567890<>%0Aḍṣṯqfġʕhẖḥj%0Ašsyblatnmkṭ%0A[SHIFT]ʔriẗuwzẓd[DEL]%0A1234567890<>%0Aḍṣṯqvġʕhẖḥǧ%0Ašsyplāẗnmgẓ%0A[SHIFT]ʔṛītūwẓṭḏ[DEL]%20%0A£¥€$₹^&*()№√÷%0Aḍṣṯqvɣɛhxḥǧ%0Ašsyplāẗnmgẓ%0A[SHIFT]ʔṛītūwẓṭḏ[DEL]%0Aˉˋˇ´¨˙˚¸﹐˛˘˜ˆ%0A~`{}%_-=|+§∷‡%0A@[]#/\'"«»—‐–%0A…<>!;:?‹›±.,[DEL]%0A―∑éə®†Ωœøπ•·¡%0Aæß∂ðƒ©ªº∆≠℥∞¿%0AʒΩ≈çþ∫ŋµ≤≥°[DEL]::S
 __S.emj39::-::S
 __S.emj36::🚾%0AⓂ%0A🚻%0A🚹%0A🚺%0A🚼%0A🚰%0A🚮%0A🅿%0A♿%0A🚭%0A🛂%0A🛄%0A🛅%0A🛃%0A🆑%0A🆘%0A🆔%0A🆚%0A🚫%0A🔞%0A📵%0A🚯%0A🚱%0A🚳%0A🚷%0A🚸%0A⛔%0A❎%0A✅%0A💟%0A☑%0A️✔%0A♻%0A📳%0A📴%0A🅰%0A🅱%0A🆎%0A🅾%0A💠%0A➿%0A♲%0A✳%0A❇%0A✴%0A👁‍🗨%0A🕳::S
 __S.emj37::💏%0A‍👩‍❤️‍💋‍👨%0A‍👨‍❤️‍💋‍👨%0A‍👩‍❤️‍💋‍👩%0A‍💑%0A‍👩‍❤️‍👨%0A‍👨‍❤️‍👨%0A‍👩‍❤️‍👩%0A‍👪%0A‍👨‍👩‍👦%0A‍👨‍👩‍👧%0A‍👨‍👩‍👧‍👦%0A‍👨‍👩‍👦‍👦%0A‍👨‍👩‍👧‍👧%0A‍👨‍👨‍👦%0A‍👨‍👨‍👧%0A‍👨‍👨‍👧‍👦%0A‍👨‍👨‍👦‍👦%0A‍👨‍👨‍👧‍👧%0A‍👩‍👩‍👦%0A‍👩‍👩‍👧%0A‍👩‍👩‍👧‍👦%0A‍👩‍👩‍👦‍👦%0A‍👩‍👩‍👧‍👧%0A‍👁‍🗨::S
@@ -283,6 +285,7 @@ __S.emj22::🏈%0A⚽%0A🏉%0A🏀%0A🎾%0A⚾%0A🎱%0A🎳%0A⛳%0A🔮%0A�
 __Learn Tifinaɣ (Morocco)tf::ⵥⵕⵟⵚⴹⵠⵒ%0Aⴰⵣⴻⵔⵜⵢⵓⵉⵄⵃ%0Aⵇⵙⴷⴼⴳⵀⵊⴽⵍⵎ%0A[SHIFT]ⵡⵅⵛⵖⴱⵏⵯ[DEL]%0Aẓṛṭṣḍvp%0Aazertyuiɛḥ%0Aqsdfghjklm%0A[SHIFT]wxcɣbnʷ[DEL]%0A£¥€$%^&*()№%0A~ˋ{}\_-=|+«»%0A[]@#±/÷'"‹›.%0A…<>!;:?,।§[DEL]%0A1234567890%0Aⴰⴱⴲⴳⴴⴵⴶⴷⴸⴹ%0Aⴺⴻⴼⴽⴾⴿⵀⵁⵂⵃ%0A[SHIFT]ⵄⵅⵆⵇⵈⵉⵊⵋⵌⵍ[DEL]%0A[]()\@-=%_#%0Aⵎⵏⵐⵑⵒⵓⵔⵕⵖⵗ%0Aⵘⵙⵚⵛⵜⵝⵞⵟⵠⵡ%0A[SHIFT]ⵢⵣⵤⵥⵦⵧⵯ⵰⵿[DEL]::S
 __S.emj20::🎁%0A🎂%0A🎈%0A🎆%0A🎇%0A🎉%0A✨%0A🎍%0A💝%0A🎎%0A🎓%0A🎏%0A🎐%0A🎑%0A🎃%0A👻%0A🎅%0A🎄%0A🎋%0A🎊%0A🎌%0A🏮%0A🎒%0A🕎%0A🕉%0A🕋::S
 __ⵜⴰⵡⴰⵍⵜ (split).Ltf::{%0A%20%20"title":"ⵜⴰⵡⴰⵍⵜ%20(split)",%0A%20%20%20"onScreen":{%0A%20%20%20"main":[%0A%20%20%20%20%20%20"ⴷⵔⵎⵍⵢⵖ%20[4D:1[UNDO]%20[REDO]%20][][4D:2%20[PGUP]%20[PGDN]][][4D:3[SEARCH]%20[TAB]%20][]%20ⵇⵛⴽⵊⵟⵡ",%0A%20%20%20%20%20%20"ⴰⵜⵉⵏⵙⵓ%20[4D:4[Home]%20[End]%20][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del]%20[FDEL]%20][]%20ⵕⵯⴻⴹⵄⵚ",%0A%20%20%20%20%20%20"[Shift]ⴱⴼⵣⴳ%20[4D:7[CUT]%20[COPY]%20%20][][4D:8[COPY]%20[PASTE]%20][][4D:9[WDEL]%20[TRANSLATE]%20][]%20ⵀⵃⵥⵅ[Del]",%0A%20%20%20%20%20%20"[Tool][ALTGR:,][Space][][][][][4D:*%20%20%20%20][][4D:0%20[ALL]%20[123]][][4D:#%20%20%20%20][][Space][][][][][SYM:.][Enter]"%0A%20%20%20%20],%0A%20%20%20%20"shifted":[%0A%20%20%20%20%20%20"ⴹⵕⵎⵍⵢⵗ%20[4D:1[UNDO]%20[REDO]%20][][4D:2%20[PGUP]%20[PGDN]][][4D:3[SEARCH]%20[TAB]%20][]%20ⵈⵞⴾⵊⵜⵯ",%0A%20%20%20%20%20%20"ⴰⵟⵉⵏⵚⵓ%20[4D:4[Home]%20[End]%20][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del]%20[FDEL]%20][]%20ⵔⵡⴻⴹⵄⵙ",%0A%20%20%20%20%20%20"[Shift]ⵒⴼⵥⴳ%20[4D:7[CUT]%20[COPY]%20%20][][4D:8[COPY]%20[PASTE]%20][][4D:9[WDEL]%20[TRANSLATE]%20][]%20ⵂⵃⵣⵅ[Del]",%0A%20%20%20%20%20%20"[Tool][ALTGR:,][Space][][][][][4D:*%20%20%20%20][][4D:0%20[ALL]%20[123]][][4D:#%20%20%20%20][][Space][][][][][SYM:.][Enter]"%0A%20%20%20%20],%0A%20%20%20%20"sym":[%0A%20%20%20%20%20%20"!@#$%%20%20[4D:1[UNDO]%20[REDO]%20][][4D:2%20[PGUP]%20[PGDN]][][4D:3[SEARCH]%20[TAB]%20][]%20%20^&*()",%0A%20%20%20%20%20%20"~`{}\\%20%20[4D:4[Home]%20[End]%20][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del]%20[FDEL]%20][]%20%20_-=|+",%0A%20%20%20%20%20%20"[Shift]…<>—%20%20[4D:7[CUT]%20[COPY]%20%20][][4D:8[COPY]%20[PASTE]%20][][4D:9[WDEL]%20[TRANSLATE]%20][]%20%20/\":;[Del]",%0A%20%20%20%20%20%20"[LOCK][ALTGR:,][Space][][][][][4D:*%20%20%20%20][][4D:0%20[ALL]%20[123]][][4D:#%20%20%20%20][][Space][][][][][SYM:.][Enter]"%0A%20%20%20%20]%0A%20%20}%0A}%20::S
+__PsychoBoarden::{%0A"title":"PsychoBoard",%0A"onScreen":{%0A%0A"main":[%0A"[4D:a%20%20%20%20%20%20v][4D:n%20-%20l][4D:i%20%20%20%20%20%20%20x][LOCK]",%0A"[4D:h%20%20k][4D:ocubdqpjg][4D:rm[SHIFT]%20.][4D:[123]%20[COPY][VOICE][PASTE][CUT]]",%0A"[4D:t%20%20%20%20%20y][4D:e!wz?%20%20:,][4D:s%20%20%20%20f][4D:[DEL][WDEL][ALL]]",%0A"[SPACE][][][ENTER]"%0A],%0A%0A"sym":[%0A"£¥€$%^&*()№÷√",%0A"~`{}\\_-=|+§∷†",%0A"@[]#±/÷'\"«»—‡",%0A"[SHIFT]…<>!;:?‹›.,[DEL]",%0A"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"%0A],%0A%0A"altGr":[%0A"\"¯`ˇ´¨˙˚¸﹐˛˘˜ˆ",%0A"―∑éə®†Ωœøπ•·",%0A"æß∂ðƒ©ªº∆≠ĸ∞",%0A"[SHIFT]ʒΩ≈çþ∫ŋµ≤≥[DEL]",%0A"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"%0A],%0A%0A"num":[%0A"[4D:1%20%20-%20€%20%20$][4D:2+^!%20`´\\/][4D:3?%20%20=%20£¥%20][LOCK]",%0A"[4D:4(%20%20%20{%_[LB]][4D:5[UNDO]%20[REDO]][4D:6%20%20)%20|}[RB]@][4D:[LOCK]%20[COPY]%20[PASTE][CUT]]",%0A"[4D:7<…*%20~%20[SYM]%20][4D:8%20%20%20.\"':,][4D:9#&>%20%20°%20;][4D:[DEL][WDEL][ALL]]",%0A"[4D:%20[LEFT]%20[RIGHT]][4D:0][SPACE][ENTER]"%0A],%0A%0A"shifted":[%0A"[4D:A%20%20%20%20%20%20V][4D:N%20-%20L][4D:I%20%20%20%20%20%20%20X][LOCK]",%0A"[4D:H(%20K%20{%20%20[LB]][4D:OCUBDQPJG][4D:RM[SHIFT]).%20}[RB]][4D:[123]%20[COPY][VOICE][PASTE][CUT]]",%0A"[4D:T%20%20*%20%20Y][4D:E!WZ?%20%20:,][4D:S%20&%20%20F][4D:[DEL][WDEL][ALL]]",%0A"[SPACE][][][ENTER]"%0A]%0A}%0A}::S
 __I.ac::false::B
 __I.adel::[HIDE]::S
 __S.emj29::🚙%0A🚘%0A🚗%0A🚕%0A🚖%0A🚛%0A🚚%0A🚨%0A🚓%0A🚔%0A🚒%0A🚑%0A🚐%0A🚲%0A🚵%0A🚴%0A🚶%0A🏃%0A🏇%0A⛵%0A🚤%0A🚣%0A⚓%0A🔱%0A🚀%0A✈%0A💺%0A🚁%0A🚂%0A🚊%0A🚉%0A🚎%0A🚆%0A🚄%0A🚅%0A🚈%0A🚇%0A🚝%0A🚋%0A🚃%0A🚎%0A🚌%0A🚍%0A🏊%0A🚡%0A🚟%0A🚠%0A🚜%0A🚏%0A🎫%0A🚦%0A🚥%0A⚠%0A🚧%0A🔰%0A⛽%0A🚫%0A🔞%0A📵%0A🚯%0A🚱%0A🚳%0A🚷%0A🚸%0A⛔%0A⛴%0A⛴%0A🛫%0A🛬%0A🛳%0A🛥%0A🛩%0A🏎%0A🏍%0A🛰%0A🛶%0A🛴%0A🛵%0A🛑::S
@@ -301,7 +304,7 @@ __2ⴰⴱⴳ Multi-taptf::{%0A"title":"2ⴰⴱⴳ%20Multi-tap",%0A"onScreen":{%0
 __C.be::false::B
 __I.awd::0::I
 __L.123::=123/[4D:$%20%20%20%20£¥€₹][Del]%0A*456#[4D:%%20%20%20%20%20‰%20‱](%0A+789[4D:-%20[MC:am]%20[MC:pm]][4D%3A%3A%20%20%20%20@℉;℃])%0A[Lock][ALTGR:,]0[SPACE][][SYM:.][Enter]::S
-__I.AP::true::B
+__I.AP::false::B
 __I.P.kbp::true::B
 __L.d123::2::S
 __I.as::true::B
@@ -339,17 +342,3 @@ OK_Settings_End
 Info:
 
 Version: pie.1.0.2
-Language: tf
-layout: ⴰⵣⴻⵔⵜⵢ (Azerty-Full)
-Mode: 1
-DensityDpi: 320
-Density: 2.0
-scaledDensity: 2.2
-dpis: 272.955 x 269.139
-pixels: 720 x 1555
-current size: 720 x 684
-system dir: App: null
-Android: 11
-Model: SM-A035F
-Manufacturer: samsung
-ID: RP1A.200720.012
