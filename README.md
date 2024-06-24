@@ -23,9 +23,8 @@ If you want to Import all the layouts at once, go to settings folder in this rep
 # Attention :
 It is better to use each layout with its **specified language**.
 <br>You may need to avoid using latin script layouts with languages that use non-latin scripts, and vise versa.
-<br>**Amazigh (Tifinagh)** is named **Tifinagh ⵜⵉⴼⵉⵏⴰⵖ** in MOK.
-<br>**Amazigh (Latin)** is named **Tamaziɣt**. It is also available under the names of Berber and Taqbaylit.
-<br>**Moroccan Darija** is **not available**, its latin layout can be used with Arabic or any language that uses latin script.
+<br>**Amazigh (Tifinagh)** is named **Tifinagh ⵜⵉⴼⵉⵏⴰⵖ** in MOK, in Languages/7. Others.
+<br>**Amazigh (Latin)** is named **Tamaziɣt** in Languages/1. Latin. It is also available under the names of Berber and Taqbaylit.
 # User Dictionary :
 You can use [User Dictionary Manager (UDM)](https://play.google.com/store/apps/details?id=com.usr.dict.mgr) to import the user dictionary.
  # Importing using UDM.
