@@ -2,6 +2,7 @@
 DIY+ layouts for some languages to use with [Multiling O Keyboard (MOK)](https://play.google.com/store/apps/details?id=kl.ime.oh).
 <br>The main language I focused on is [Amazigh](https://en.wikipedia.org/wiki/Berber_languages), also known as Tamazight and Berber, which I found that it has limited layouts in many keyboard apps for its script, [Tifinagh](https://en.wikipedia.org/wiki/Tifinagh).
 <br>[DOWNLOAD EVERYTHING](https://github.com/abdelhaqueidali/Layouts-for-Multiling-O-Keyboard/archive/refs/heads/main.zip)
+<br>![ⴷⵔⵎⵍ](https://github.com/abdelhaqueidali/Layouts-for-Multiling-O-Keyboard/blob/main/Layouts%20Images/%E2%B4%B7%E2%B5%94%E2%B5%8E%E2%B5%8D.jpg)
 # Recommended Layouts :
 <br>**Amazigh** : ⴰⵣⴻⵔⵜⵢ (Azerty), ⴰⵣⴻⵔⵜⵢ (Azerty-Full), and ⴷⵔⵎⵍ.
 <br>**Arabic** : Arabic 1
