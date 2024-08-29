@@ -1,21 +1,21 @@
 OK_Layout_Begin
 Name:Amazigh IPA (Azerty)
 1234567890
-[XK:æɑa]zə[XK:r[MC:rˁ]ɾ]tj[XK:ʊuo][XK:ɪi]ʕħ
+[XK:aɑ]zə[XK:r[MC:rˁ]ɾ]tj[XK:uʊo][XK:iɪ]ʕħ
 qsdfghʒklm
 [SHIFT][XK:w:[MC://]]xʃɣbnʷ[DEL]
 []()/+-=%_#@
-ɑ[MC:zˁ]ə[MC:rˁ][MC:tˁ]joiɛħ
+ɑ[MC:zˁ]ə[MC:rˁ][MC:tˁ]joɪɛħ
 q[MC:sˁ][MC:dˁ]v[MC:gʷ]hʒ[MC:kʷ]lm
 [SHIFT]:χʃʁpn°[DEL]
 1234567890
-ɑ[MC:zˁ]ə[MC:rˁ][MC:tˁ]joiɛħ
+ɑ[MC:zˁ]e[MC:rˁ][MC:tˁ]joɪɛħ
 q[MC:sˁ][MC:dˁ]v[MC:gʷ]hʒ[MC:kʷ]lm
 [SHIFT]:χʃʁpn°[DEL]
 1234567890
-abḇg[XK:ḡ[MC:g̱]][XK:ǧj][XK:ǧj]dḏḍ
-[XK:[MC:ḏ̣]ḓ]efkk[XK:ḵ[MC:ḵ]]hhhḥ
-[SHIFT]ɛ[XK:xẖ][XK:xẖ]qqijj[XK:jẓ]l[DEL]
+abḇgḡǧǧdḏḍ
+[XK:[MC:ḏ̣]]efkk[XK:ḵ]hhhḥ
+[SHIFT]ɛxxqqijjjl[DEL]
 []()\@-=%_#
 mn[MC:gn][MC:ng]purṛ[XK:ɣγġ][XK:ɣγġ]
 [XK:ɣγġ]sṣ[XK:cš]tṯčṭvw
